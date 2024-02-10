@@ -1,0 +1,16 @@
+Entrega de documento .HTML con en Notebook .ipynb
+
+Total 13 cuestiones: 30%
+
+ 7/10
+	- 6 obligatorias(*)
+ 9/10
+	- 7 opcionales (añaden 2 puntos más)
+10/10
+	- 1 punto por presentación, descripción, ...
+		- lenguaje claro
+		- código comentado
+		- acompaña ilustraciones(imágenes) si es necesario ...
+
+Fecha límite de entrega 1a convocatoria: 23/02/2024 
+Fecha límite de entrega 2a convocatoria: 22/03/2024
