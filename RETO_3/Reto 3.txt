@@ -1,0 +1,16 @@
+Reto 3 (1ª Convocatoria)
+
+(Es con el dataset de las 42 ciudades de la uniersidad de Heideburg   swiss42.tsp)
+(Se podría incluso implementar más de uno, pero no se puntuará más)
+
+Implementar uno de los siguientes retos:
+	- Mejorar la implementación de búsqueda local implementada en  clase sobre el TSP con otros operadores de vecindad.
+ 	- Implementar el algoritmo de búsqueda tabú para el TSP de la AG3.
+	- Mejorar la implementación de recocido simulado implementado en clase sobre el TSP eligiendo una generación de solución vecina con un grado de aleatoriedad menor (función genera_vecino_aleatorio()). -> Simulated Annealing (SA)
+	- Mejorar la implementación de colonia de hormigas implementada en clase sobre el TSP mediante una asignación inicial de feromonas más inteligente.
+	- Mejorar la implementación de colonia de hormigas implementada en clase sobre el TSP mediante una elección de nodo que tenga en consideración una función de probabilidad que depende de las feromonas.
+	- Mejorar la implementación del algoritmo genético propuesto para la resolución del TSP.
+
+La fecha límite de entrega será el próximo día 01/03/2024 a las 23:59 horas.
+
+El formato de entrega será el de Jupyter Notebook exportado a HTML. Se debe mostrar el resultado de ejecución de las celdas. Se debe mostrar el resultado de, al menos, dos pruebas de cada algoritmo implementado para condiciones de entrada diferentes. Se deberá adjuntar también el archivo con extensión IPYNB o un enlace a Github por si es necesaria la ejecución de código.
